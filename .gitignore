@@ -21,6 +21,8 @@ obj/
 *.dacpac
 *.mdf
 *.ldf
+*.ndf
+*.jfm
 
 # Logs
 *.log
