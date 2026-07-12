@@ -1,0 +1,26 @@
+Security/
+Import Schema Logs/
+
+# Build output
+bin/
+obj/
+
+# SQL Server Data Tools user settings
+*.dbmdl
+*.dbproj.user
+*.sqlproj.user
+
+# Visual Studio junk
+.vs/
+*.user
+*.suo
+
+# Backup / temp files
+*.bak
+*.bacpac
+*.dacpac
+*.mdf
+*.ldf
+
+# Logs
+*.log
